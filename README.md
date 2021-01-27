@@ -16,6 +16,7 @@ Aditionally have helped  determine the number of retiring employees per title, a
   - This data helps the PH future-proof the company by plannign ahead and start with the recruting process as in when the employees retire or take voluntary retirement.
   - The Second analysis was to identify employees who are eligible to participate in a mentorship program based on the title and their experience 
   - This data would give a better idea to plan on the mentoriship program when new joiners are hired.
+  - retirement_titles, unique_titles, retiring_titles, and mentorship_eligibilty table would provide all the information thats needed for the management to make a plan to future proof the company
 
 
 #### Summary
