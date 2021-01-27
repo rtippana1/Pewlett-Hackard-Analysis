@@ -11,14 +11,12 @@ Aditionally have helped  determine the number of retiring employees per title, a
 
 ### Results
 
-<<<<<<< HEAD
-=======
+
   - Based on the first analysis there are huge number of Retiring Employees by Title.the data retrieved from the frist deliverable gives the PH HR to hav a good idea of the number of roles that needs to be filled in each department .
   - This data helps the PH future-proof the company by plannign ahead and start with the recruting process as in when the employees retire or take voluntary retirement.
   - The Second analysis was to identify employees who are eligible to participate in a mentorship program based on the title and their experience 
   - This data would give a better idea to plan on the mentoriship program when new joiners are hired.
 
->>>>>>> 1d13c2b024e3f8b326fcfbd7205bbdc8ae6254b3
 
 #### Summary
 
